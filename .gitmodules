@@ -1,3 +1,6 @@
 [submodule "Submodule_demo_Child"]
 	path = Submodule_demo_Child
 	url = https://github.com/yazhidev/Submodule_demo_Child.git
+[submodule "Submodule_demo_Child_two"]
+	path = Submodule_demo_Child_two
+	url = git@github.com:yazhidev/Submodule_demo_Child_two.git
